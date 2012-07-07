@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">SampleRingtone</string>
+    <string name="menu_settings">Settings</string>
+    <string name="none_ringtone">None Selected Ringtone</string>
+
+</resources>
